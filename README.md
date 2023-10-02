@@ -1,3 +1,5 @@
+![logo](https://github.com/ItsSubhoo/Subhajit_Lai/blob/main/image%20(9).png)
+
 <h1 align="left">Hi 👋, I'm Subhajit Lai</h1>
 <h3 align="left">A passionate Software developer from India</h3>
 <img align="right" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
